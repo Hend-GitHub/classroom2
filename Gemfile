@@ -57,7 +57,7 @@ gem "peek-sidekiq",         "1.0.0.4.g261c857"
 gem "pg",                   "~> 0.21.0"
 gem "pry-byebug",           "~> 3.5"
 gem "pry-rails",            "~> 0.3.6"
-gem "puma",                 "~> 3.10"
+gem "puma",                 "~> 3.12"
 
 gem "rack-canonical-host", "~> 0.2.3"
 gem "rack-rewrite",        "~> 1.5.0"
